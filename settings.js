@@ -15,9 +15,9 @@
   global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = true // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
-  global.available = true // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
-  global.autoTyping = true // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
-  global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
+  global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
+  global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
+  global.autoRecord = false // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
   global.limitCount = 70 // 70 Dah Pas Banh
   global.prefa = ['','.','/','#']
@@ -28,7 +28,7 @@
   global.ownernomer = '6282252875751' // Owner Utama Istilahnya
   global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
   global.packname = 'sticker' // Sticker Weem
-  global.author = 'by yusril' // Sticker Weem
+  global.author = 'by-yusril' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
